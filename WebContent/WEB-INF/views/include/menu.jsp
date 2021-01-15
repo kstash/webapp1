@@ -7,5 +7,13 @@
 		<li class="chapter">Ch02. <a href="<%=application.getContextPath() %>/ch02/content">Request Mapping</a></li>
 		
 		<li class="chapter">Ch03. <a href="<%=application.getContextPath() %>/ch03/content">Request Parameter</a></li>
+		
+		
+		
+		<li class="chapter">Ch05. <a href="<%=application.getContextPath() %>/ch05/content">Header / Cookie</a></li>
+		
+		<li class="chapter">Ch06. <a href="<%=application.getContextPath() %>/ch06/content">Forward / Redirect</a></li>
+		
+		<li class="chapter">Ch07. <a href="<%=application.getContextPath() %>/ch07/content">Data Delivery</a></li>
 	</ul>			
 </div>
